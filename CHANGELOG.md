@@ -1,1 +1,1 @@
-# @graphql-codegen/typescript-solid-query
+# typescript-solid-query
